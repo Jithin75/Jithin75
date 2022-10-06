@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jithin75
+- 👋 Hi, I’m Jithin
 - 👀 I’m interested in Cybersecurity and Quantum Information Processing
 - 🌱 I’m currently learning Computer Science at the University of Waterloo
 - 💞️ I’m looking to collaborate on any fun rpojects :)
